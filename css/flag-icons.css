@@ -11,6 +11,7 @@
   display: inline-block;
   width: 1.33333333em;
   line-height: 1em;
+  border-radius: 50%;
 }
 .fi:before {
   content: '\00a0';
